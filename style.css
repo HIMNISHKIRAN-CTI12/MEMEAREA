@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(126, 123, 123, 0.74);
+    text-align: center;
+    font-family: 'Caveat', cursive;
+}
+h1{ 
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Nabla', cursive;
+}
+#header{
+    background-color: rgb(97, 97, 97);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-bottom: 15px;
+}
+.footer{
+    background-image: linear-gradient(red,black);
+    line-height: 30px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
